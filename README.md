@@ -5,3 +5,7 @@
 2.  [Machine Learning General](https://github.com/alinemati45/Python-Tutorial/blob/main/Machine%20Learning%20General.ipynb)
 
 3. [Pandas](https://github.com/alinemati45/Python-Tutorial/blob/main/Pandas%20.ipynb)
+
+4. [Matplotlib](https://github.com/alinemati45/Python-Tutorial/blob/main/Matplotlib.ipynb)
+
+5. [NumPy](https://github.com/alinemati45/Python-Tutorial/blob/main/NumPy%20.ipynb)
