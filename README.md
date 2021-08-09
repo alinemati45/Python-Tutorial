@@ -9,3 +9,5 @@
 4. [Matplotlib](https://github.com/alinemati45/Python-Tutorial/blob/main/Matplotlib.ipynb)
 
 5. [NumPy](https://github.com/alinemati45/Python-Tutorial/blob/main/NumPy%20.ipynb)
+
+6. [Statistics Tutorial](https://github.com/alinemati45/Python-Tutorial/blob/main/Statiscital.ipynb)
