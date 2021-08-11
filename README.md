@@ -11,3 +11,5 @@
 5. [NumPy](https://github.com/alinemati45/Python-Tutorial/blob/main/NumPy%20.ipynb)
 
 6. [Statistics Tutorial](https://github.com/alinemati45/Python-Tutorial/blob/main/Statiscital.ipynb)
+
+7. [data analysis](https://github.com/alinemati45/Python-Tutorial/blob/main/data-analysis.ipynb)
