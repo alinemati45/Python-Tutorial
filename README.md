@@ -13,3 +13,5 @@
 6. [Statistics Tutorial](https://github.com/alinemati45/Python-Tutorial/blob/main/Statiscital.ipynb)
 
 7. [data analysis 1](https://github.com/alinemati45/Python-Tutorial/blob/main/data-analysis%20part%201.ipynb)
+
+8. [data-analysis part 2](https://github.com/alinemati45/Python-Tutorial/blob/main/data-analysis%20part%202.ipynb)
