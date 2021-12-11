@@ -12,5 +12,6 @@
 10. [Data analysis 4](https://github.com/alinemati45/Python-Tutorial/blob/main/Data%20analysis%204.ipynb)
 11. [Data analysis 5](https://github.com/alinemati45/Python-Tutorial/blob/main/Data%20analysis%205.ipynb)
 12. [Top 100 Python Interview Questions You Must Prepare In 2021](https://github.com/alinemati45/Python-Tutorial/blob/main/Top%20100%20Python%20Interview%20Questions%20You%20Must%20Prepare%20In%202021.ipynb)
+13. [Implementing_PCA_from_Scratch](https://github.com/alinemati45/Python-Tutorial/blob/main/Implementing_PCA_from_Scratch.ipynb)
 
 
